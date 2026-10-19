@@ -28,6 +28,8 @@
 
 **Portfolio Risk & Rebalancing Lab** is a general-purpose Python optimization toolkit and a serverless portfolio manager decision workspace. It shows how competing covariance forecasts and historical risk-prediction errors affect portfolio weights, risk-budget feasibility, and the potential cost of risk protection.
 
+Listed in [awesome-quant](https://github.com/wilsonfreitas/awesome-quant), a curated list of quant finance resources.
+
 | PM question | Decision output |
 | --- | --- |
 | Where do risk models disagree? | Long-window, short-window, and EWMA volatility forecasts |
