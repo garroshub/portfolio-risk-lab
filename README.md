@@ -157,6 +157,13 @@ python -m build --no-isolation
 
 The source lives in [`portfolio_risk_lab/`](./portfolio_risk_lab/), and the Pages deployment workflow is [`.github/workflows/pages.yml`](./.github/workflows/pages.yml). No browser server or broker account is required to use the Python API.
 
+## Related quant tools
+
+Companion tools from the same open-source quant family:
+
+- **[TaxRebalance](https://github.com/garroshub/taxrebalance)** — tax-aware portfolio rebalancing with Canadian ACB and U.S. tax lots, tracking-error constraints, and convex optimization.
+- **[Option Risk Explain](https://github.com/garroshub/OptionRiskExplain)** — equity-option P&L attribution that reconciles daily P&L against opening Greeks and flags contracts that need review.
+
 ## License and attribution
 
 **MIT License applies to the newly authored Portfolio Risk & Rebalancing Lab components** and their documentation. See [`LICENSE`](./LICENSE) and [`THIRD_PARTY_NOTICES.md`](./THIRD_PARTY_NOTICES.md).
